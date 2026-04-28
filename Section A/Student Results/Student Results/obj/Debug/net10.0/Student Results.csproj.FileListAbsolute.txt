@@ -1,0 +1,14 @@
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\bin\Debug\net10.0\Student Results.exe
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\bin\Debug\net10.0\Student Results.deps.json
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\bin\Debug\net10.0\Student Results.runtimeconfig.json
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\bin\Debug\net10.0\Student Results.dll
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\bin\Debug\net10.0\Student Results.pdb
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\Student Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\Student Results.AssemblyInfoInputs.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\Student Results.AssemblyInfo.cs
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\Student Results.csproj.CoreCompileInputs.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\Student Results.dll
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\refint\Student Results.dll
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\Student Results.pdb
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\Student Results.genruntimeconfig.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\Student Results\Student Results\obj\Debug\net10.0\ref\Student Results.dll

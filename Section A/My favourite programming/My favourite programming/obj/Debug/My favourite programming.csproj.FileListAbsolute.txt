@@ -1,0 +1,10 @@
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\bin\Debug\My favourite programming.exe.config
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\bin\Debug\My favourite programming.exe
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\bin\Debug\My favourite programming.pdb
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\obj\Debug\My favourite programming.csproj.AssemblyReference.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\obj\Debug\My_favourite_programming.Form1.resources
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\obj\Debug\My_favourite_programming.Properties.Resources.resources
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\obj\Debug\My favourite programming.csproj.GenerateResource.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\obj\Debug\My favourite programming.csproj.CoreCompileInputs.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\obj\Debug\My favourite programming.exe
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\My favourite programming\My favourite programming\obj\Debug\My favourite programming.pdb

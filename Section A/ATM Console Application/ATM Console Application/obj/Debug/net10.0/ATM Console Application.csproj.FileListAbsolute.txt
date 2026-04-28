@@ -1,0 +1,14 @@
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\bin\Debug\net10.0\ATM Console Application.exe
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\bin\Debug\net10.0\ATM Console Application.deps.json
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\bin\Debug\net10.0\ATM Console Application.runtimeconfig.json
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\bin\Debug\net10.0\ATM Console Application.dll
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\bin\Debug\net10.0\ATM Console Application.pdb
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\ATM Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\ATM Console Application.AssemblyInfoInputs.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\ATM Console Application.AssemblyInfo.cs
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\ATM Console Application.csproj.CoreCompileInputs.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\ATM Console Application.dll
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\refint\ATM Console Application.dll
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\ATM Console Application.pdb
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\ATM Console Application.genruntimeconfig.cache
+C:\Users\tshil\OneDrive\Documents\Formative 1 C#\ATM Console Application\ATM Console Application\obj\Debug\net10.0\ref\ATM Console Application.dll
